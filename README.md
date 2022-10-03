@@ -8,6 +8,7 @@ duoren4 - “四人帮”罪行材料（九）
 duoren5 - “四人帮”罪行材料（四）  
 duoren6 - “四人帮”罪行材料（一〇）  
 duoren7 - “四人帮”罪行材料（五）  
+duoren8 - 王洪文、纪登奎同志在省委工作会议召集人和县委书记会议上的讲话  
 
 ## 姚文元
 yaowenyuan1 - 
@@ -26,6 +27,7 @@ wanghongwen7 - 上海市机电一局系统活学活用毛泽东思想积极分�
 wanghongwen8 - 
 王洪文副主席重要电话指示  
 wanghongwen9 - “四人帮”罪行材料（八）
+wanghongwen10 - 王洪文付主席和马天水同志的谈话  
 
 ## 江青
 jiangqing1 - 
