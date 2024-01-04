@@ -31,6 +31,14 @@ jobs:
         with:
           path: './ocr_cache'
           ref: 'ocr_cache'
+      - uses: actions/checkout@v4
+        with:
+          path: './ocr_patch'
+          ref: 'ocr_patch'
+      - uses: actions/checkout@v4
+        with:
+          path: './parsed_article'
+          ref: 'parsed_article'
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
