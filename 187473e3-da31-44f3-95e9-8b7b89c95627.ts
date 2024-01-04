@@ -11,7 +11,7 @@ export default {
   },
   parser_option: {
     page_limits: [],
-    ext: 'pdf',
+    type: 'pdf',
     articles: [
       {
         title:

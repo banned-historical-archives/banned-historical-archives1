@@ -11,7 +11,7 @@ export default {
   },
   parser_option: {
     page_limits: [],
-    ext: 'pdf',
+    type: 'pdf',
     articles: [
       {
         title: '陈以梅同志在济南市二所对济南工人谈话',

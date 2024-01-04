@@ -11,7 +11,7 @@ export default {
   },
   parser_option: {
     page_limits: [],
-    ext: 'pdf',
+    type: 'pdf',
     articles: [
       {
         title: '周总理关于新民主主义时期六次路线斗争历史的讲话',

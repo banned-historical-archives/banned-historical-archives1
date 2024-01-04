@@ -11,7 +11,7 @@ export default {
   },
   parser_option: {
     page_limits: [],
-    ext: 'pdf',
+    type: 'pdf',
     articles: [
       {
         title: '中共中央关于建立五·一六专案联合小组的决定',

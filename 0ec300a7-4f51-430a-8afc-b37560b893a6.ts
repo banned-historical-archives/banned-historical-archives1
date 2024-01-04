@@ -11,7 +11,7 @@ export default {
   },
   parser_option: {
     page_limits: [],
-    ext: 'pdf',
+    type: 'pdf',
     articles: [
       {
         title: '周恩来接见工交财贸农林口各部委及国务院直属单位代表的讲话',
