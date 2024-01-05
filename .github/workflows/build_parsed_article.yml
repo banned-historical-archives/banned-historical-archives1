@@ -37,7 +37,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 18
-      - run: cd parsed_article && git checkout --orphan x && git reset --hard
       - run: cd ocr_helper && npm install && npm run build_parsed_article -- ../ocr_config ../ocr_cache ../ocr_patch ../parsed_article
       - run: git config --global http.postBuffer 2097152000
       - run: git config --global user.email "you@example.com"
@@ -61,4 +60,4 @@ jobs:
         run: |
           cd ./parsed_article
           git add .
-          git commit -m automation && git push x:parsed_article -f
+          git commit -m automation && git push
