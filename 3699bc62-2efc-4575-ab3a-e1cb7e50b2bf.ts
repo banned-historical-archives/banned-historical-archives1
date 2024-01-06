@@ -11,7 +11,7 @@ export default {
   },
   parser_option: {
     page_limits: [],
-    type: 'pdf',
+    ext: 'pdf',
     articles: [
       {
         title: '张春桥同志接见全国教育工作会议领导小组时的讲话',

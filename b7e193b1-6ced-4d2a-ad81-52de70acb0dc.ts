@@ -11,7 +11,7 @@ export default {
   },
   parser_option: {
     page_limits: [],
-    type: 'pdf',
+    ext: 'pdf',
     articles: [
       {
         title: '总理、邓小平、张春桥副总理在国务院领导人见面会上的讲话',

@@ -12,7 +12,7 @@ export default {
   },
   parser_option: {
     page_limits: [],
-    type: 'pdf',
+    ext: 'pdf',
     articles: [
       {
         title: '国务院、中央军委批转《总参谋部民兵组训工作座谈会议纪要》',
