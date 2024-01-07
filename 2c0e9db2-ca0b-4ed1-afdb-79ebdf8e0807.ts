@@ -12,7 +12,7 @@ export default {
         (i, idx) =>
           `https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives1/main/2c0e9db2-ca0b-4ed1-afdb-79ebdf8e0807/${
             idx + 1
-          }.`,
+          }.jpg`,
       )
       .join(','),
   },
