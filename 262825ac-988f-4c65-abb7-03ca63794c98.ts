@@ -45,5 +45,6 @@ export default {
   },
   "parser_id": "automation",
   "path": "/archives1/262825ac-988f-4c65-abb7-03ca63794c98",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }
