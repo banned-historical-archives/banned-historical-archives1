@@ -36,5 +36,6 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives1/902188ea-6b5e-461f-aa76-ef2f80cb949a"
+  "path": "/archives1/902188ea-6b5e-461f-aa76-ef2f80cb949a",
+  "resource_type": "book"
 }
