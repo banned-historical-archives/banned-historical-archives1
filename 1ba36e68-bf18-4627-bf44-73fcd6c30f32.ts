@@ -9,7 +9,6 @@ export default {
     author: '七机部二院材料 721',
     files: ["https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives1/main/1.jpg","https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives1/main/2.jpg","https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives1/main/3.jpg","https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives1/main/4.jpg","https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives1/main/5.jpg","https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives1/main/6.jpg"]
   },
-  {
   "parser_option": {
     "articles": [
       {
@@ -40,7 +39,6 @@ export default {
       "differential_paragraph_merge_strategy_threshold": 30
     },
     "ocr_exceptions": {}
-  }
 },
   parser_id: 'automation',
   path: '1ba36e68-bf18-4627-bf44-73fcd6c30f32'
