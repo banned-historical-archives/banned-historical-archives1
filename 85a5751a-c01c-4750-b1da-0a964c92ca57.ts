@@ -1,5 +1,5 @@
 export default {
-  resource_type: book,
+  resource_type: 'book',
   entity: {
     id: '85a5751a-c01c-4750-b1da-0a964c92ca57',
     name: '舒龙山关于批邓问题的材料附件（1976.10.6+）',
